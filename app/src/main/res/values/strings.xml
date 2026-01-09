@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">RemoteDroidConn</string>
+    <string name="action_connect">action_connect</string>
+    <string name="action_menu">action_menu</string>
+    <string name="left_click">Left Click</string>
+
+    <string name="Previous">Previous</string>
+    <string name="Next">Next</string>
+    <string name="PlayPause">PlayPause</string>
+
+    <string name="restart">Restart Computer</string>
+    <string name="shutdown">Shutdown Computer</string>
+    <string name="MachineC">Machine Controller</string>
+    <string name="vlc">VLC Controller</string>
+    <string name="enter">ENTER</string>
+    <string name="Submit">Submit</string>
+    <string name="EnterIP">Enter Server IP Address</string>
+    <string name="ip"></string>
+    <string name="Nav">Navigation</string>
+
+    <string name="Keypad">Keypad</string>
+    <string name="btn_a">a</string>
+    <string name="btn_b"> b</string>
+    <string name="btn_c"> c</string>
+    <string name="btn_d"> d</string>
+    <string name="btn_e"> e</string>
+    <string name="btn_f"> f</string>
+    <string name="btn_g"> g</string>
+    <string name="btn_h"> h</string>
+    <string name="btn_i"> i</string>
+    <string name="btn_j"> j</string>
+    <string name="btn_k"> k</string>
+    <string name="btn_l"> l</string>
+    <string name="btn_m"> m</string>
+    <string name="btn_n"> n</string>
+    <string name="btn_o"> o</string>
+    <string name="btn_p"> p</string>
+    <string name="btn_q"> q</string>
+    <string name="btn_r"> r</string>
+    <string name="btn_s"> s</string>
+    <string name="btn_t"> t</string>
+    <string name="btn_u"> u</string>
+    <string name="btn_v"> v</string>
+    <string name="btn_w"> w</string>
+    <string name="btn_x"> x</string>
+    <string name="btn_y"> y</string>
+    <string name="btn_z"> z</string>
+    <string name="btn_shift">Caps</string>
+
+    <string name="Navigation">Navigation</string>
+    <string name="VLCController">VLC Controller</string>
+    <string name="Writing">Type Controller</string>
+    <string name="Restart">Machine Controller</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="Left">Left</string>
+    <string name="Right">Right</string>
+    <string name="Top">Top</string>
+    <string name="Bottom">Bottom</string>
+    <string name="title_activity_machine">MachineActivity</string>
+
+
+</resources>

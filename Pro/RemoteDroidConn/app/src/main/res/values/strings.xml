@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">RemoteDroidConn</string>
+    <string name="action_connect">action_connect</string>
+    <string name="action_menu">action_menu</string>
+    <string name="left_click">Left Click</string>
+    <string name="btn">Click</string>
+    <string name="mousepad">Mouse Pad</string>
+    <string name="capturedScreen">Capture Screenshot</string>
+    <string name="menu">Menu</string>
+
+    <string name="Previous">Previous</string>
+    <string name="Next">Next</string>
+    <string name="PlayPause">PlayPause</string>
+    <string name="screenshot">Take Screenshot</string>
+    <string name="open_app">Open Applications</string>
+    <string name="cmd">Command Prompt</string>
+    <string name="calc">Calculator</string>
+    <string name="player">Player</string>
+    <string name="paint">Paint</string>
+    <string name="browser">Browser</string>
+    <string name="adobe">Adobe Reader</string>
+    <string name="notepad">Notepad</string>
+    <string name="word">MS Word</string>
+    <string name="wordpad">Wordpad</string>
+    <string name="Excel">Excel</string>
+
+
+    <string name="restart">Restart Computer</string>
+    <string name="shutdown">Shutdown Computer</string>
+    <string name="MachineC">Machine Controller</string>
+    <string name="vlc">VLC Controller</string>
+    <string name="enter">ENTER</string>
+    <string name="sp">Space</string>
+    <string name="Submit">Submit</string>
+    <string name="EnterIP">Enter Server IP Address</string>
+    <string name="ip"></string>
+    <string name="Nav">Navigation</string>
+
+    <string name="Keypad">Keypad</string>
+    <string name="btn_a">a</string>
+    <string name="btn_b"> b</string>
+    <string name="btn_c"> c</string>
+    <string name="btn_d"> d</string>
+    <string name="btn_e"> e</string>
+    <string name="btn_f"> f</string>
+    <string name="btn_g"> g</string>
+    <string name="btn_h"> h</string>
+    <string name="btn_i"> i</string>
+    <string name="btn_j"> j</string>
+    <string name="btn_k"> k</string>
+    <string name="btn_l"> l</string>
+    <string name="btn_m"> m</string>
+    <string name="btn_n"> n</string>
+    <string name="btn_o"> o</string>
+    <string name="btn_p"> p</string>
+    <string name="btn_q"> q</string>
+    <string name="btn_r"> r</string>
+    <string name="btn_s"> s</string>
+    <string name="btn_t"> t</string>
+    <string name="btn_u"> u</string>
+    <string name="btn_v"> v</string>
+    <string name="btn_w"> w</string>
+    <string name="btn_x"> x</string>
+    <string name="btn_y"> y</string>
+    <string name="btn_z"> z</string>
+    <string name="btn_shift">Caps</string>
+
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+
+
+    <string name="angu1"></string>
+
+
+    <string name="Navigation">Navigation</string>
+    <string name="VLCController">VLC Controller</string>
+    <string name="Writing">Type Controller</string>
+    <string name="Restart">Machine Controller</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="Left">Left</string>
+    <string name="Right">Right</string>
+    <string name="Top">Top</string>
+    <string name="Bottom">Bottom</string>
+    <string name="title_activity_machine">MachineActivity</string>
+
+
+</resources>
